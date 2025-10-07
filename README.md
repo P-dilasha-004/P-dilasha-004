@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Dilasha! 
-I’m a Computer Science major at Fisk University. I’m a goal-oriented person who loves brainstorming, ideating, coding, and building innovative solutions. Recently, I’ve been learning deep learning and mathematical models, and I am truly fascinated by how deeply math shapes the world around us. 
+I’m a Computer Science major at Fisk University with a passion for coding, problem-solving, and building innovative solutions. I thrive at the intersection of finance and technology, where I enjoy applying machine learning and mathematical models to real-world problems. Lately, I’ve been diving into C++ and learning to develop efficient, low-latency systems.
 
 To the core, I am a people-person. I learn best through conversations, collaboration, and building alongside others. I am ever excited to meet new people, learn from their inspiring work and insights, and collaborate on meaningful projects. 
 
