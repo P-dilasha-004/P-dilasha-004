@@ -1,12 +1,15 @@
 # ✨ Hi, I'm Dilasha! 
-I’m a Computer Science major at Fisk University with a passion for coding, problem-solving, and building innovative solutions. I enjoy applying programming and software engineering skills to solve real-world problems. Lately, I’ve been expanding my skills in full-stack development and learning to create efficient, user-facing systems.
 
-To the core, I am a people-person. I learn best through conversations, collaboration, and building alongside others. I am ever excited to meet new people, learn from their inspiring work and insights, and collaborate on meaningful projects. 
+ I’m a Computer Science major at Fisk University. Last summer, I worked as a Machine Learning Intern at Fisk, and since then, I have had a deep interest in ML/AI. I am a part of the AI4ALL Ignite Fellowship and have completed a couple of deep learning projects. I’ve experience working with time-series and high-frequency datasets, and creating custom datasets for projects. Currently, I am exploring AI security and am also passionate about building multi-user, scalable systems.
 
-When I'm not at my keyboard, I'm happiest by the water 🏖. I'm always open to collaborating on interesting projects or just connecting to chat about tech 💻, aviation ✈️, nutrition 🥝, or yoga 🧘🏻‍♀️!
+Furthermore, I am a strong advocate of community building. At Fisk, I serve as an Events Lead for Girls Who Code. I enjoy organizing events that strengthen both technical skills and a sense of community. To the core, I am a people-person. I learn best through conversations, collaboration, and building alongside others. I am ever excited to meet new people, learn from their inspiring work and insights, and collaborate on meaningful projects. 
 
-Currently, I am looking for internship opportunities. If you’re looking for a team member with fresh ideas, thoughtful questions, and purpose-driven ambitions, let’s connect and collaborate! 
+Fun facts: 
+Count me in for hackathons: any day, anytime! 
+I’m excited about ideas, startups—maybe I’ll find a co-founder here (or be found!)
+I love adventure; I’ve done skydiving before! 
 
+Nice to meet you! :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilasha-pant-9101851b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantdilasha2@gmail.com) 
