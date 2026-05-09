@@ -33,8 +33,14 @@ Nice to meet you! :)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=P-dilasha-004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-dilasha-004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📈 GitHub Analytics
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-dilasha-004&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-dilasha-004&theme=github_dark"/>
+</p>
+
+
+# 📊 Contribution Graph
+
+[![Dila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=P-dilasha-004&theme=github-dark)](https://github.com/P-dilasha-004)
